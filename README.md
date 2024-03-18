@@ -1,2 +1,2 @@
 # report.inspiratie
-First time using GitHub @inspirationDay
+First time using GitHub @inspirationDay. 
