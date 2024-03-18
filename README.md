@@ -1,12 +1,8 @@
 # report.inspiratie
 First time using GitHub @inspirationDay. 
-
-
-
-
-
-
-
-
-
-2024-03-18 - 12h22
+.
+..
+.
+.
+.
+24-03-18 - 12h22
